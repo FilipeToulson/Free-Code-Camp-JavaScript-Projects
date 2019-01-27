@@ -16,3 +16,7 @@ This involved implementing an algorithm which converted a given integer to its c
 
 #### Caesars Cipher
 This involved implementing a ROT13 algorithm.
+
+#### Telephone Number Validator
+This involved implementing an algorithm that returned true if the string provided was a valid American phone number, and false
+otherwise.
